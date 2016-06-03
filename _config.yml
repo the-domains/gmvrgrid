@@ -2,6 +2,7 @@ name: GMVRgrid
 favicon: null
 layout_spectrum: 0.5360389507841319
 typography_spectrum: 0.5972913254518062
+title: GMVRGrid
 cta:
   domain: null
   bucket: null
